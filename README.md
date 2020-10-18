@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
- <script src="Mspeakhello.js"></script>
+ <script src="https://github.com/mokshiaya/ASSIGNMENT-3-COURSERA/blob/main/Mspeakhello.js"></script>
   <script src="https://github.com/mokshiaya/ASSIGNMENT-3-COURSERA/blob/main/Mgoodbye.js"></script>
 <script src="https://github.com/mokshiaya/ASSIGNMENT-3-COURSERA/blob/main/Mscript.js"></script>
 </head>
